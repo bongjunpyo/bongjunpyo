@@ -30,3 +30,5 @@ ML과 풀스택을 오가며 쓸모있는 걸 만듭니다.
 [![Email](https://img.shields.io/badge/Email-wnsvy1927%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wnsvy1927@gmail.com)
 
 </div>
+
+<!-- profile readme -->
