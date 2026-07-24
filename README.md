@@ -22,7 +22,7 @@ ML과 풀스택을 오가며 쓸모있는 걸 만듭니다.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bongjunpyo&layout=compact&langs_count=8&hide=makefile&hide_border=true&disable_animations=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bongjunpyo&layout=compact&langs_count=8&hide=makefile&hide_border=true&disable_animations=true&theme=default" alt="top languages" />
+
 </picture>
 
 <br><br>
