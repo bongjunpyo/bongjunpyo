@@ -11,7 +11,7 @@ ML · 풀스택 · 임베디드를 오가며 만듭니다 — 명지전문대 �
 **최근 작업**
 
 <!-- recent:start -->
-<sub>11-03</sub> [Sunny](https://github.com/bongjunpyo/Sunny)<br>
+<sub>11-04</sub> [Sunny](https://github.com/bongjunpyo/Sunny)<br>
 <sub>09-24</sub> [hackathon_mjc](https://github.com/bongjunpyo/hackathon_mjc)<br>
 <sub>09-09</sub> [opensource_contest_tmax](https://github.com/bongjunpyo/opensource_contest_tmax)<br>
 <sub>08-10</sub> [hackathon1schoolLover](https://github.com/bongjunpyo/hackathon1schoolLover)<br>
